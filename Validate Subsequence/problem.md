@@ -23,6 +23,5 @@ sequence = [1, 6, -1, 10]
 
 `Sample Output`
 ```swift
-Sample Output
 true
 ```
